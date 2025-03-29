@@ -36,7 +36,7 @@ firebase-debug.*.log
 # Metro Bundler cache
 .expo/
 .expo-shared/
-
+*.keystore
 # Babel & ESLint cache
 .babelrc
 .eslintcache
