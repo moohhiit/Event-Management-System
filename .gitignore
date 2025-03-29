@@ -1,0 +1,58 @@
+# Node.js dependencies
+Utkarsh/node_modules/
+Control-panel/node_modules/
+
+# Android build files
+Utkarsh/android/.gradle/
+Utkarsh/android/app/build/
+Utkarsh/android/build/
+Control-panel/android/.gradle/
+Control-panel/android/app/build/
+Control-panel/android/build/
+
+# iOS build files
+Utkarsh/ios/build/
+Utkarsh/ios/Pods/
+Control-panel/ios/build/
+Control-panel/ios/Pods/
+
+# Firebase configurations (Protect API keys & credentials)
+Utkarsh/android/app/google-services.json
+Control-panel/android/app/google-services.json
+Utkarsh/ios/GoogleService-Info.plist
+Control-panel/ios/GoogleService-Info.plist
+firebase-debug.log
+firebase-debug.*.log
+
+# Debug and logs
+*.log
+*.lock
+*.tmp
+*.swp
+*.swo
+.DS_Store
+.vscode/
+
+# Metro Bundler cache
+.expo/
+.expo-shared/
+
+# Babel & ESLint cache
+.babelrc
+.eslintcache
+
+# Environment files (for Firebase credentials)
+.env
+.env.*
+.env.local
+.env.production
+.env.development
+.env.test
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+
+# Xcode specific files
+xcuserdata/
