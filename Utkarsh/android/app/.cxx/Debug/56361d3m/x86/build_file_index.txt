@@ -1,0 +1,1 @@
+E:\SCRS\Event-Management-System\Utkarsh\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

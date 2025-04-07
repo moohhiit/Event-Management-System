@@ -1,0 +1,6 @@
+# ninja log v5
+4	60	0	E:/SCRS/Event-Management-System/Utkarsh/android/app/.cxx/Debug/56361d3m/x86/CMakeFiles/cmake.verify_globs	cc8c97dc9eb87c66
+1	9381	7653086319795970	CMakeFiles/appmodules.dir/E_/SCRS/Event-Management-System/Utkarsh/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	a7a09bc0445c37f1
+8	10370	7653086329636688	CMakeFiles/appmodules.dir/OnLoad.cpp.o	46f80fb97293c899
+10370	10609	7653086332337563	E:/SCRS/Event-Management-System/Utkarsh/android/app/build/intermediates/cxx/Debug/56361d3m/obj/x86/libappmodules.so	abad21a191292364
+4	66	0	E:/SCRS/Event-Management-System/Utkarsh/android/app/.cxx/Debug/56361d3m/x86/CMakeFiles/cmake.verify_globs	cc8c97dc9eb87c66
