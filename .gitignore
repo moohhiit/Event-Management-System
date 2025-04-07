@@ -1,26 +1,26 @@
 # Node.js dependencies
 Utkarsh/node_modules/
-Control-panel/node_modules/
+control-pannel/node_modules/
 
 # Android build files
 Utkarsh/android/.gradle/
 Utkarsh/android/app/build/
 Utkarsh/android/build/
-Control-panel/android/.gradle/
-Control-panel/android/app/build/
-Control-panel/android/build/
+control-pannel/android/.gradle/
+control-pannel/android/app/build/
+control-pannel/android/build/
 
 # iOS build files
 Utkarsh/ios/build/
 Utkarsh/ios/Pods/
-Control-panel/ios/build/
-Control-panel/ios/Pods/
+control-pannel/ios/build/
+control-pannel/ios/Pods/
 
 # Firebase configurations (Protect API keys & credentials)
 Utkarsh/android/app/google-services.json
-Control-panel/android/app/google-services.json
+control-pannel/android/app/google-services.json
 Utkarsh/ios/GoogleService-Info.plist
-Control-panel/ios/GoogleService-Info.plist
+control-pannel/ios/GoogleService-Info.plist
 firebase-debug.log
 firebase-debug.*.log
 
